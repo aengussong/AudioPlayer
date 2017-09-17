@@ -1,0 +1,12 @@
+D:\projects\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\bass.dll
+D:\projects\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+D:\projects\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe
+D:\projects\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.pdb
+D:\projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Form1.resources
+D:\projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+D:\projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.Cache
+D:\projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+D:\projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.exe
+D:\projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.pdb
+D:\projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csprojResolveAssemblyReference.cache
+D:\projects\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\Bass.Net.dll
